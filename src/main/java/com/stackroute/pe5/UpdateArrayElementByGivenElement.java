@@ -1,7 +1,6 @@
-package com.stackroute.pe4;
+package com.stackroute.pe5;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class UpdateArrayElementByGivenElement {
 
